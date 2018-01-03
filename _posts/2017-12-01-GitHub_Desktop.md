@@ -1,28 +1,59 @@
 ---
-layout: article
-title:  "可裝GitHub Desktop"
+layout: default
+title:  "商店"
 date:   2017-12-01 22:07:50 +0800
-categories: notes_tech Jekyll
-image:
-  teaser: github-desktop-icon.svg
-  feature: github-desktop-icon.svg
+categories: Jekyll GitHub update
 ---
-欲用 `GitHub` 空間，可先自裝 [GitHub Desktop][GitHub_Desktop] 這開發環境工具。
+LINE FRIENDS在全世界一共有45个商店
 
-## 怎样裝 GitHub Desktop？
+## 中国
+- 上海淮海店
+-成都太古里店
+-上海新天地店
+-北京银泰中心in01店
+-广州正佳广场店
+-南京凯瑟琳广场店
+-深圳海岸城店
+-成都银泰中心in99店
+-杭州湖滨银泰in77
+-上海五角场万达广场店
+...
 
-現在2017年年底的情境下，在中國的網絡環境裝 `GitHub Desktop`，有時會考驗著所在地區的網路速度和安裝人的人品。
+## 韩国
+-乐天免税店世界大厦店
+-首尔弘大 EL CUBE
+-首尔梨大 EL CUBE
+-首尔明洞 乐天免税店
+-首尔明洞新世界免税店
+-首尔新村现代百货
+-首尔明洞乐天百货 Young Plaza
+-首尔明洞站
+-Doota-mall
+-龙仁爱宝乐园
+-首尔东大门Doota
+-首尔釜山总店乐天百货
+-首尔市松坡区奥林匹克路300（新川洞29）乐天世界地下1楼
+...
 
-- 註冊一個免費去[Github 官网][Github官网] 注册( `Sign Up` )一个账号，账号名請選你打算行走世界的名號，先佔先有
-- 去 [GitHub Desktop][GitHub_Desktop] 頁面下載客戶端 
+## 日本
+-福冈天神中央区
+-东京原宿神宫前
+-仙台青叶区一番町
 
-若從官網下載不了，可搜索較新的離線安裝版本，或找朋友們試試。
+## 哥伦比亚
+-波哥大 Santa Fe Mall游击店
 
-## 怎样使用 GitHub？
+## 马来西亚
+-吉隆坡巴比伦购物广场游击店
+-布城 IOI City Mall游击店
 
-在知乎上有[一个文科妹子分享了其半年摸索才明白的經驗][文科妹子用GitHub]，可以參考。
+## 新加坡
+-WISMA ATRIA游击店
+-Somerset游击店
 
+## 印度尼西亚
+-雅加达卡拉巴加丁商场游击店
 
-[GitHub_Desktop]: https://desktop.github.com/
-[Github官网]: https://github.com/
-[文科妹子用GitHub]: https://www.zhihu.com/question/20070065 
+## 美国
+-纽约时代广场店
+-纽约时代广场游击店
