@@ -4,8 +4,8 @@ title:  "内容IP是最大盈利点"
 date:   2017-12-03 08:45:50 +0800
 categories: notes_tech Jekyll
 image:
-  teaser: 12.3a.jpg
-  feature: 12.3a.jpg
+  teaser: 12.3a.png
+  feature: 12.3a.png
 ---
 可能有的人会问Line Friends是什么？问出这句话的人我相信你一定没有女朋友。
 
