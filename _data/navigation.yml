@@ -10,9 +10,9 @@
   excerpt: "关于LINE FRIENDS的主要角色介绍"
   image: role.jpg
 
-- title: New 新品
+- title: Product 产品
   url: /new/
-  excerpt: "新品介绍"
+  excerpt: "产品介绍"
   image: new.jpg
   
   - title: Popular 流行
