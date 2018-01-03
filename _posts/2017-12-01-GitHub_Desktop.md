@@ -2,7 +2,7 @@
 layout: default
 title:  "科普时间"
 date:   2017-12-01 22:07:50 +0800
-categories: Jekyll GitHub update
+categories: tech Jekyll GitHub
 image:
    teaser: github-desktop-icon.svg
    feature: github-desktop-icon.svg
