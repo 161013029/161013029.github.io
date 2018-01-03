@@ -14,8 +14,13 @@
   url: /new/
   excerpt: "新品介绍"
   image: new.jpg
+  
+  - title: Popular 流行
+  url: /popular/
+  excerpt: "当代流行"
+  image: popular.jpg
 
-- title: 联络我
+- title: Contact 联络我
   url: /contact/
   excerpt: "联络我"
   image: Pigeon_post.jpg
