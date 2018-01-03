@@ -3,9 +3,13 @@ layout: default
 title:  "LINE FRIENDS到底红在哪？"
 categories: Reason
 ---
-## LINE FRIENDS为什么会这么红？
-</div> 
-<div class="col-md-9" markdown="1" ><!-- right -->
+<div class="row img-rounded" style="padding:30px; box-shadow: 10px 10px 5px #888888; border: 1px solid #EA1D2D;">
+<div class="col-md-12">
+<div style="background: #EA1D2D; color:white" class="btn" markdown="1">
+
+#### LINE FRIENDS为什么这么红？
+</div>
+</div>
   人气爆棚的国际卡通形象品牌LINE FRIENDS正式亮相南京凯瑟琳广场。可妮兔、布朗熊等大家喜爱的亚洲“卖萌天团”悉数亮相，line friends的备受追捧让人难以想象，短短数小时之内有近两万客流量，当天晚上由于接近关门时间，不少排队的粉丝被店员“劝退”，但他们仍然恋恋不舍地挤在门外用无比期待眼神打量着玻璃窗内这个卡通世界的一切。Line friends是什么？为什么会这样红？line friends能在南京红多久，能撬动周边经济吗？中国是否也有类似的衍生文化IP，能否复制效仿发展呢？下面，让荔枝新闻记者带你做一番科普。
 
   据了解，LINE原本是韩国第一大互联网门户集团NHN的日本子公司NHN Japan所推出的即时聊天软件，2011年在日本已有2亿活跃用户。过去几年，这个聊天软件靠着卖表情包和周边产品，在亚洲甚至全球红透半边天。两年前，因在热播剧《来自星星的你》中被“露脸”，之后其衍生IP布朗熊和可妮兔以及他们的朋友LINE FRIENDS靠“卖脸”，有了印着自己头像的专属飞机，包括burburry在内的许多国际大牌也要沾他们的光，合作开发爆款。
@@ -14,7 +18,7 @@ categories: Reason
 
 ## LINE FRIENDS能红多久？能撬动鼓楼商圈的发展吗？
 line的开业一定来能撬动未来广场的整体经济，也希望借此能带动整个鼓楼商圈的发展   
-<img src="https://unstats.un.org/sdgs/report/2017/svg/goal-01.svg" alt="" style="width: 100%" type="image/svg+xml">
+<img src="https://unstats.un.org/sdgs/report/2017/svg/goal-01.svg" alt="SDG 2017 Report Goal 1" style="width: 100%" type="image/svg+xml">
 </div>
 <div class="col-md-9"><!-- right -->
  南京环亚商业管理有限公司董事长李明霞告诉记者，广场之所以引进line是看中了其在年轻人中的广泛影响力。“我们公司的总经理毛辉是北大毕业的高材生，此前他和团队做了细致的市场调研，在上海，line最高的日营业额曾达到20万元，相当吸金。然而引进line来南京并不是一件容易的事，首先LINE在中国市场的布局，其实最初并不十分顺利，这不仅仅是简单的商业合作，还牵涉到国家与国家之间的沟通”。李明霞表示，今天短短几个小时客流量达到近两万是没有想到的，她认为line的开业一定来能撬动未来广场的整体经济，也希望借此能带动整个鼓楼商圈的发展。
