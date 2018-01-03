@@ -1,62 +1,62 @@
 ---
 layout: article
-title:  "装Jekyll主题Skinny Bones"
+title:  "内容IP是最大盈利点"
 date:   2017-12-03 08:45:50 +0800
 categories: notes_tech Jekyll
 image:
   teaser: Jekyll_skinny_bones.jpg
   feature: Jekyll_skinny_bones.jpg
 ---
-Jekyll 有不少第三方开发的主题可以用，这篇文章简介[Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll)。
+可能有的人会问Line Friends是什么？问出这句话的人我相信你一定没有女朋友。
 
 {% include toc.html %}
 
 ## 为何选 Skinny Bones
 
-Jekyll 有不少第三方开发的主题可以用，功能简单的到齐全的都有，这篇文章简单介绍一个难易适中的主题[Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll)做个起头。
+Line Friends其实是社交通信软件Line所推出的表情包周边衍生品，而Line软件则是像微信一样的即时通讯软件，其在日韩和台湾非常流行。
 
-之所以采用Michael Rose所设计的主题样式理由不少，其中包括他所有的样式都可以在[Github](https://github.com/)使用，他设计的这些作品多以开源MIT授权释出，所以若觉得好用，可以[在此鼓励他](https://mademistakes.com/support/)
+目前，Line的主要收入有三部分：通讯、内容、广告。然而除此之外，他还依靠表情贴纸业务，围绕表情经济，其去年收入达到2.68亿美元。
 
-设计师Michael Rose[他自己总结Skinny Bones 主题的特点](https://mademistakes.com/work/skinny-bones-jekyll/)有
+但在壹圆看来，Line最大的盈利点不在于通讯和广告，而在于其内容IP，也就是这些周边衍生品。这些周边衍生品成为了Line打通线下渠道的“功臣”，自此从线上到线下Line便有了自己的“生态链”。
 
-- 兼容 GitHub Pages 页面  <br/> GitHub Pages compatible.
-- 使用 "Sass" 构建的样式表可以轻松地帮助您的网站主题。需要Jekyll 2.x。<br/> Stylesheets built using Sass to help theme your site with ease. Requires Jekyll 2.x
-- 使用数据文件, 便于自定义站点导航/页脚和支持多个作者。<br/> Data files for easier customization of the site navigation/footer and for supporting multiple authors.
-- 含可选功能如 Disqus 评论, 目录, 社会共享链接, 和谷歌 AdSense 广告。<br/> Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
+2002年，腾讯授权的Q-Generation 曾出现在中国很多城市里。现在，Line也在做着相同的事情——试图通过售卖特许商品来增加自己在线下的影响力。
+Line 一开始并没有做线下业务的打算，直到其CEO出泽刚一次在台湾出差，看到遍地都是未经授权的布朗和可妮玩偶、手机壳等周边——这让出则刚感到震惊，也让其意识到 Line 受欢迎的程度。没过多久，Line Friend成立。
+然而，Line Friend周边品却并非便宜，但其满足的并不是低幼阶层的品味和需求，而是成年人的高端需求，尤其是女性。
+虽然，Line并未打入中国内地市场，但这并不阻挡其表情包和衍生品的先发优势。
 
-## 如何用 Skinny Bones
+## 表情和贴纸
 
-Skinny Bones 的主题官网在Github Page上[mmistakes.github.io/skinny-bones-jekyll](https://mmistakes.github.io/skinny-bones-jekyll/getting-started/),有两种安装方式，一种是全新安装，另一种是对已有的Jekyll进行换主题的安装教程。
+2011年10月，Line在其软件中加入“贴纸”功能，这是其表情包的前身，当推出该功能后，Line在2天之内增加了100万用户。现在，Line 的用户每天发送的贴纸数量接近20亿张。
 
-由於我打算就是要在Github 的个人页面使用重建一个新的Jekyll个人站点，我直接采取安装教程的第一个方案，步骤如下：
+去年四月，Line 开放了贴图市场，Line与设计用户55分成。目前，贴纸是 Line 仅次于游戏的第二大收入来源。
 
-1. 直接 fork/clone [mmistakes/skinny-bones-jekyll](https://github.com/mmistakes/skinny-bones-jekyll)，这相当於安装教程第一个方案中的第1步
-2. 在自己的项目hanteng/skinny-bones-jekyll改名成hanteng/hanteng.github.io，这相当於安装教程第一个方案中的第2步，并使用Github Desktop 下载至本地端 
-3. 运行捆绑安装```bundle install```, 安装Jekyll和其所依赖的模块。
-4. 更新 项目根目录中yml设定档```_config.yml```内容丶增加导航navigation丶增加文章/页面，如[我这里的编修Commit](https://github.com/hanteng/hanteng.github.io/commit/cf9691a940e8d9527d64553501a90991e9c5f1ab)
+当前，Line似乎和微信“同步”了。它正在从单一的免费通信模式转变为一个多应用平台，其功能涵盖支付、企业号、打车等服务，但从其战略来看似乎还是有些保守，这可能与日本人的性格有关。
+例如，Line的企业号是需要收费的，发送和注册任何账号都需要收取费用，所以在Line注册企业号的企业基本都是日本的大中型企业，小企业几乎没有。相比中国的微信，还是相当厚道的，毕竟微信在除了提现之外，其他几乎是免费的。
+如果在日本，面向一个成熟的市场开展平台业务创新，是比较难的，因为日本的各方领域均比中国发达，在中国支付宝和微信支付能够成功，还要归功于传统金融机构的发展过于缓慢。
+然而，日本的互联网公司并没有中国互联网公司的后发优势。
 
-若你是第一次使用Jekyll，可以分别在本地和Github远端测试是否能正确运行：
+## 独占性使其小获成功
+  目前，国内的表情包生意，已经错过了最黄金的收费阶段，但这并不意味着无利可言。以表情包为基础的衍生产业链，在中国也开始萌芽。
 
-## 本地运行测试
-首先要确立你的Github项目在本地的路径，可在Github Desktop 中，先选定该项目，再点选菜单Repository，再点选其中的Show in Explorer，就可以查到你放哪了。
+  015年11月份，“长草颜文字日常”相关表情发送超过1亿次。在微信表情商店上，其五套表情包均不收费。不过，尽管使用免费，但其字体已开始探索衍生品和实体化的路线图。其与部分品牌商家合作，将长草颜文字原创形象与线下品牌相结合，为其定制文化创意形象。
+  但是，中国表情包的IP之路，将不同于Line的模式。表情包这个轻IP，将利用微信平台深入场景、创造场景，将创意生意从娱乐化走向粉丝化、社群化，以此创造出可持续发展的创意品牌。
+  国内微信表情的生态奥秘在于，它给动漫文创产业走向社群化的一个入口。对创业者而言，当有了品牌，有了粉丝社群之后，轻IP也能释放出很大商业价值。
+  所以最终，无论是走向深度内容形态，还是做粉丝文化产品，一切都将变得不那么难，而表情包的商业价值也将水涨船高。
+  “亚洲国家的社会文化偏保守传统，表情包对于平日里习惯压抑和隐藏情感的亚洲人来说，是很好的情绪表达方式。”有专家认为。
+  “我们起家于即时通信，”LINE集团CEO出泽刚说，“但真正是转折点，出现在表情贴纸发布之后。”
+  为何Line的表情包会比微信更受欢迎？因为Line表情包的一大特点是——让用户更好的紧随潮流。这一理念的好处是，只要有热门人物出现，它就会立刻将其“收入囊中”，以满足用户需求。例如本届奥运会的付园慧就是一个很好的例证。
+  在日本，知识产权的保护是相当重要的，像一些热门的超级IP不仅具有吸粉的功能，更具有独占性。所以这就是Line表情包的销售逻辑。
 
-- 使用Ruby命令列，切换至该目录如```cd C:\Users\me\Documents\GitHub\hanteng.github.io```
-- 执行捆绑执行```bundle exec jekyll serve```把jekyll 伺服器执行
+## 线下的“野心”
+以上我讲的都是其线上的表情售卖，反观线下同样是热火朝天。因为Line拥有着丰富的表情库，但最为著名的还是Line friends这一组合形象。
+根据官方介绍，这一组合包括大叔、可妮兔、馒头人、布朗熊、詹姆斯、莎利、杰茜卡等7位成员。
+而这些表情形象受欢迎不仅缘于颜值，更是因为它们最早是按照日本女高中生的口味设计的，因为这一人群在日本流行文化中影响力巨大，而日本又是LINE最大的市场。
+之后，Line friends在表情包中一战成名，但Line并不满足于让这些轻IP仅仅充当一个表情，必须要让IP实体化才能产生更多的收益。之后，Line开发了一系列的衍生品链条，其中包括漫画、动画、周边及线下体验店。
+在中国的天猫商城上，印有Line friends组合形象的公仔、手机壳、钱包等一直是网络热销品。而在上海、大连，Line开设了不同风格的咖啡馆、化妆品店，近期在北京Line friends组合更是大放光彩，店前排起长龙。
+目前，在全球Line friends主题商店共有44家，拥有超过400个品类7000款商品。除此之外，Line还计划开设主题乐园，似乎有打造东方“迪士尼”之意。
+Line friends在互联网上收到追捧以后，东京电视台于2013年1月7日曾推出名为《LINE OFFLINE サラリーマン》的短片动画，每集5分钟。内容描述了line各个人物在公司中的日常生活，强化了其卡通形象的生命力。
+其实，我一直在想，为什么我们都这么大了，但这些女生或者有些男生依然那么喜欢这些卡通形象。
+对于这个问题，我不知道你们的答案是什么，但我认为，这可能是对于童年的一种梦幻，是赤子之心的情怀。
+虽然布朗熊叫一声friends，但它身后永远是可妮兔莎莉馒头人。而我们叫一声friends，身后却可能早已不是曾经他了，可能人生的每个阶段身后站的都不是同一拨人。
+好奇与热烈，善良与真诚。人这一辈子很难一直保存，但卡通人物可以。它代替一切好的品质提醒你，幼稚有时是一种美德，在瞬息万变的世界里，让人信服那些可以不变的东西。
 
-执行效果如：
-<pre class="highlight"><code>C:\Users\Hante\Documents\GitHub\hanteng.github.io>bundle exec jekyll serve
-Configuration file: C:/Users/me/Documents/GitHub/hanteng.github.io/_config.yml
-            Source: C:/Users/me/Documents/GitHub/hanteng.github.io
-       Destination: C:/Users/me/Documents/GitHub/hanteng.github.io/_site
- Incremental build: disabled. Enable with --incremental
-      Generating...
-                    done in 1.64 seconds.
-  Please add the following to your Gemfile to avoid polling for changes:
-    gem 'wdm', '>= 0.1.0' if Gem.win_platform?
- Auto-regeneration: enabled for 'C:/Users/me/Documents/GitHub/hanteng.github.io'
-Configuration file: C:/Users/me/Documents/GitHub/hanteng.github.io/_config.yml
-    Server address: http://127.0.0.1:4000/
-  Server running... press ctrl-c to stop.
-</code></pre>
-
-看到```Server running``` 字样代表运行成功，可以在```Server address```上执行使用，也就是在本地开一个浏览器输入该URL地址（上述為 ```http://127.0.0.1:4000/```）查看站点执行状况。
