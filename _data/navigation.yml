@@ -15,7 +15,7 @@
   excerpt: "产品介绍"
   image: new.jpg
   
-  - title: Popular 流行
+- title: Popular 流行
   url: /popular/
   excerpt: "当代流行"
   image: popular.jpg
