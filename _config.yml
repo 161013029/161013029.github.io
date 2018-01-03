@@ -1,12 +1,8 @@
 # Site wide configuration
-
--title: "LINE FRIENDS"
--description: "Let LINE FRIENDS walk with us"
 +title: "161013029.github.io LINE FRIENDS"
-+description: "让LINE FRIENDS与我们同行"
++description: "让LINE FRIENDS与我们同行。"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
--locale: en
 +locale: zh_TW # 本地化翻譯
 url:
 feed:
@@ -35,7 +31,6 @@ owner:
   google:
     ad-client:
     ad-slot:
-  -bio:
   +bio: "中山大学南方学院 文学与传媒系 网络与新媒体1班 顾菲"
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
