@@ -1,22 +1,13 @@
 ---
 layout: article
-title:  "科普时间"
-date:   2017-12-01 22:07:50 +0800
-categories: notes_tech Jekyll
+title:  "我的可视化作品"
+date:   2017-12-03 
+categories: /infovis/
+tag: infovis
+permalink: infovis/我的可视化作品
 image:
    teaser: a12.1g.jpg
    feature: a12.1g.jpg
 ---
- 相信每个女生的心中都拥有一个粉色的少女梦，会让她们看到可爱的萌物时就走不动路，恨不能立刻抱回家。这里就给大家介绍来自韩国的品牌LINE FRIENDS，它的相关产品不仅小朋友们喜欢，很多大朋友也爱不释手。
-  
- ## 跨界合作
- 
- LINE FRIENDS还和其他品牌玩起了跨界合作。之前合作过的品牌有化妆品MISSHA、钢笔品牌凌美、服装品牌优衣库&VANS、餐饮品牌必胜客&Baskin Robbins、首饰配件品牌J.estina red、保温杯品牌膳魔师等等。每一款都可爱至极，每一款都让人想拥有，会让人不自觉的大喊“谁都别拦着我花钱！让我买！”
- 
- ## 产品
- - LINE FRIENDS与EMART的合作，主要产品涉及各式家居用品，保温饭盒、椅子、餐具、洗浴用具、收纳盒等等，在EMART的龙山、九老、KINTAX等店面可以买到。
- - LINE FRIENDS与CGV已经进行了两次合作，足见联合产品的人气之高，相信很多小伙伴完全是冲着可爱的LINE FRIENDS去购买了CGV爆米花套餐，这样就能把可爱的LINE杯子们抱回家啦~
- - LINE FRIENDS与时尚饰品品牌J·ESTINA RED推出合作商品，有精美的项链、戒指、耳钉、手环等等可以让大家选购，虽然价格不菲，但可爱的外形和精美的设计还是很值得拥有的。
- - LINE FRIENDS与欧洲钢笔生产商凌美的合作。德国传统的优质钢笔品牌，加上可爱的LINE FRIENDS形象，54000韩元（300+人民币）的价格不算便宜，不过如此具有实用性的产品还真是让人忍不住要剁手啊。
-- LINE FRIENDS与MISSHA的合作可以说是十分成功，产品一经推出，很快就开始了售罄补货又售罄再补货的循环，相信很多人都买了这个系列里自己喜欢的产品，从大受欢迎的口红、唇膏、气垫BB、眼影到护手霜、睫毛膏等等，价格实惠加上这么可爱的外观，关键是上妆效果也不错，一举多得的萌物，完全没理由错过啊。
-- LINE FRIENDS与运动品牌VANS的合作也是备受年轻人的喜爱，很多人专门拜访了与其合作的VANS店铺，和店内陈设的玩偶合照，选购自己喜爱的各种休闲运动鞋，将可妮兔与布朗熊随身穿戴的感觉，一定很美好。
+
+<div class='tableauPlaceholder' id='viz1515104690570' style='position: relative'><noscript><a href='#'><img alt='故事 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;_1&#47;_18192&#47;1_2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='_18192&#47;1_2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;_1&#47;_18192&#47;1_2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1515104690570');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='991px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
