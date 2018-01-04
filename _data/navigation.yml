@@ -1,26 +1,22 @@
 # Site navigation links
 
 - title: Web作品集
-  url: /about/
+  url: /portfolio/
   excerpt: "期中做的网页"
   image: about.jpg
 
 - title: Web学习笔记
-  url: /role/
+  url: /rwd/
   excerpt: "Web学习笔记"
   image: role.jpg
 
 - title: 可视化作品集
-  url: /new/
+  url: /infovis/
   excerpt: "可视化期末专题"
   image: new.jpg
   
 - title: 可视化学习笔记
-  url: /popular/
+  url: /infovis/
   excerpt: "可视化学习笔记"
   image: popular.jpg
 
-- title: Contact 联络我
-  url: /contact/
-  excerpt: "联络我"
-  image: Pigeon_post.jpg
