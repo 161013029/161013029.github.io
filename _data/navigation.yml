@@ -1,23 +1,23 @@
 # Site navigation links
 
-- title: About 关于
+- title: Web作品集
   url: /about/
-  excerpt: "LINE FRIENDS是国际卡通形象品牌公司"
+  excerpt: "期中做的网页"
   image: about.jpg
 
-- title: Role 角色
+- title: Web学习笔记
   url: /role/
-  excerpt: "关于LINE FRIENDS的主要角色介绍"
+  excerpt: "Web学习笔记"
   image: role.jpg
 
-- title: Product 产品
+- title: 可视化作品集
   url: /new/
-  excerpt: "产品介绍"
+  excerpt: "可视化期末专题"
   image: new.jpg
   
-- title: Popular 流行
+- title: 可视化学习笔记
   url: /popular/
-  excerpt: "当代流行"
+  excerpt: "可视化学习笔记"
   image: popular.jpg
 
 - title: Contact 联络我
