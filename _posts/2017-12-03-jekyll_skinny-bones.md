@@ -3,7 +3,7 @@ layout: article
 title:  "W3G_12翻译"
 date:   2017-12-03 
 categories: /posts/infovis/
-tag: infovis
+tag: /posts/infovis/
 permalink: /posts/infovis/W3G_12翻译
 image:
   teaser: a12.3.jpg
