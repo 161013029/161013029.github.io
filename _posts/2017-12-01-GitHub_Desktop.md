@@ -2,9 +2,9 @@
 layout: article
 title:  "我的可视化作品"
 date:   2017-12-03 
-categories: /infovis/
+categories: infovis
 tag: infovis
-permalink: infovis/我的可视化作品
+permalink: /infovis/我的可视化作品
 image:
    teaser: a12.1g.jpg
    feature: a12.1g.jpg
