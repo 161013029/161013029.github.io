@@ -1,15 +1,20 @@
 ---
 layout: archive
 title: "可视化学习笔记"
-date: 2017-12-30T11:40:45-04:00
-modified:
 excerpt: "我的可视化学习笔记"
-tags: []
 ---
 
 
+<h3>infovis<h3>
 <div class="tiles">
-{% for post in site.categories.infovis %}
-  {% include post-grid.html %}
+{% for post in site.posts %}
+{{% post.title %}}
+	{% if post.tag contains 'infovis' %}
+	{{% post.title %}}
+		{% for title in post.title %} 
+						{% include post-grid.html %}
+						
+		{% endfor %}
+	{% endif %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 infovis 的列出来-->
+</div><!-- /.tiles -->
