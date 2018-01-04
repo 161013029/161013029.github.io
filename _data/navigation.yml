@@ -2,21 +2,21 @@
 
 - title: Web作品集
   url: /portfolio/
-  excerpt: "期中做的网页"
+  excerpt: "我的WEB作品"
   image: about.jpg
 
-- title: Web学习笔记
-  url: /rwd/
-  excerpt: "Web学习笔记"
+- title: WEB学习笔记
+  url: /posts/rwd/
+  excerpt: "我的WEB学习笔记"
   image: role.jpg
 
 - title: 可视化作品集
   url: /infovis/
-  excerpt: "可视化期末专题"
+  excerpt: "我的可视化作品"
   image: new.jpg
   
 - title: 可视化学习笔记
-  url: /infovis/
-  excerpt: "可视化学习笔记"
+  url:/posts /infovis/
+  excerpt: "我的可视化学习笔记"
   image: popular.jpg
 
