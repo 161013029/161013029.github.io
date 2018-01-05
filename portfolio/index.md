@@ -25,20 +25,19 @@ tags: []
 		<div class="IntroWrapper">
 			<p class="IntroText">朝着社交元素不断发展的LINE，越来越像年轻人生活的style，而不仅是一款通讯工具。
 				<!-- 根據 https://www.bilibili.com/video/av6713857/  -->
-+				<embed height="452" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="https://static-s.bilibili.com/miniloader.swf" flashvars="aid=6713857&page=1" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed>
++				<embed height="452" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="https://static-s.bilibili.com/miniloader.swf" flashvars="aid=6713857&page=1" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">
 		        </p>
 			<div class="MoneyShot">
 				<a herf="http://www.un.org/sustainabledevelopment/zh/sdgadvocates" />
-				<img class="MoneyShotImg" width="100%" <img src="http://7xo6kd.com1.z0.glb.clouddn.com/upload-ueditor-image-20170913-1505316693215021744.jpg" title="http://7xo6kd.com1.z0.glb.clouddn.com/upload-ueditor-image-20170913-1505316693215021744.jpg" alt="timg (2).jpg"/>
+				<img src="http://7xo6kd.com1.z0.glb.clouddn.com/upload-ueditor-image-20170913-1505316693215021744.jpg" title="http://7xo6kd.com1.z0.glb.clouddn.com/upload-ueditor-image-20170913-1505316693215021744.jpg" alt="timg (2).jpg"/>
 				<p class="ImageCaption">引领年轻人的一种生活方式</p>
-				</a>
 			</div>
 		</div>
 		<p>LINE FRIENDS到底如何迅速发展的</p>
 		<div class="Ingredients">
 			<h3 class="SubHeader">发展方向</h3>
 			<ol>
-				<li>夸张的表情/li>
+				<li>夸张的表情</li>
 				<li>搞笑的动漫角色</li>
 				<li>即时通讯服务</li>
 				<li>生动的卡通形象</li>
@@ -48,8 +47,6 @@ tags: []
 				<li>高质量产品</li>
 				<li>不断提高知名度</li>
 				<li>不断更新</li>
-			</ol>
-		</div>
 		<div class="HowToMake">
 			<h3 class="SubHeader">LINE FRIENDS到底如何迅速发展的</h3>
 			<ol class="MethodWrapper">
@@ -62,8 +59,6 @@ tags: []
 				<li>有卡通形象延伸出咖啡厅、互动乐园、创意产品等</li>
 			</ol>
 		</div>
-	</body>
-</html>
 
 
 <div class="tiles">
