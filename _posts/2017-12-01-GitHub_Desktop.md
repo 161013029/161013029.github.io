@@ -5,7 +5,6 @@ date:   2017-12-03
 categories: vzuo
 image:
    teaser: a12.1g.jpg
-   feature: a12.1g.jpg
 ---
 
 # 我国国产手机专卖店对比简要分析
