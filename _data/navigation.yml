@@ -5,8 +5,8 @@
   excerpt: "我的WEB作品"
   image: about.jpg
 
-- title: WEB学习笔记
-  url: /posts/rwd/
+- title: 学习笔记
+  url: /posts/
   excerpt: "我的WEB学习笔记"
   image: role.jpg
 
@@ -15,8 +15,7 @@
   excerpt: "我的可视化作品"
   image: new.jpg
   
-- title: 可视化学习笔记
-  url: /posts/infovis/
-  excerpt: "我的可视化学习笔记"
-  image: popular.jpg
-
+ - title: 关于我
+   url: /mine/
+   excerpt: 个人资料 
+   image: popular.gif 
