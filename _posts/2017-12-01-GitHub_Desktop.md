@@ -2,7 +2,7 @@
 layout: article
 title:  "我的可视化作品"
 date:   2017-12-03 
-categories: vpen
+categories: infovis
 image:
    teaser: a12.1g.jpg
    feature: a12.1g.jpg
