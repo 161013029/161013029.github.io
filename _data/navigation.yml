@@ -20,4 +20,7 @@
   excerpt: "我的可视化作品"
   image: new.jpg
 
-   
+- title: 联络我
+  url: /mine/
+  excerpt: "我的联系信息"
+  image: contact.jpg
