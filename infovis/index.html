@@ -10,8 +10,7 @@ excerpt: "我的可视化作品"
 <div class="tiles">
 {% for post in site.posts %}
 	{% if post.categories contains 'infovis' %}
-		{% for title in post.title %} 
-						<li>{% include post-grid.html %}		</li>
+		
 						
 		{% endfor %}
 	{% endif %}
