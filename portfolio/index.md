@@ -12,7 +12,7 @@ tags: []
 <html class="no-js" lang="zh-CN">
 	<head>
 		<meta charset="utf-8">
-		<title>LINE FRIENDS</title>
+## LINE FRIENDS
 		<meta name="description" content="LINE FRIENDS 为什么这么火">
 		<meta name="viewport" content="width=device-width">
 		<link rel="stylesheet" href="css/styles.css">
