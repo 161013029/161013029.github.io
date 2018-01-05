@@ -2,7 +2,7 @@
 layout: article
 title:  "W3G_12翻译"
 date:   2017-12-03 
-categories: /posts/infovis/
+categories: vpen
 tag: infovis
 permalink: /posts/infovis/W3G_12翻译
 image:
