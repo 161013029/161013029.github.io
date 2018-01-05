@@ -4,18 +4,24 @@
   url: /portfolio/
   excerpt: "我的WEB作品"
   image: about.jpg
-
-- title: 学习笔记
-  url: /posts/
-  excerpt: "我的学习笔记"
+  
+- title: Web笔记
+  url: /posts/rwd/
+  excerpt: "我的Web笔记"
+  image: role.jpg
+  
+- title: 信息可视化笔记
+  url: /posts/infovis/
+  excerpt: "我的信息可视化笔记"
   image: role.jpg
 
 - title: 可视化作品集
   url: /infovis/
   excerpt: "我的可视化作品"
   image: new.jpg
-  
- - title: 关于我
+
+- title: 关于我
    url: /mine/
    excerpt: 个人资料 
    image: popular.jpg 
+   
