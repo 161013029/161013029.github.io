@@ -25,7 +25,7 @@ tags: []
 		<div class="IntroWrapper">
 			<p class="IntroText">朝着社交元素不断发展的LINE，越来越像年轻人生活的style，而不仅是一款通讯工具。
 				<!-- 根據 https://www.bilibili.com/video/av6713857/  -->
-+				<embed height="452" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="https://static-s.bilibili.com/miniloader.swf" flashvars="aid=6713857&page=1" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">
+				<embed height="452" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="https://static-s.bilibili.com/miniloader.swf" flashvars="aid=6713857&page=1" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">
 		        </p>
 			<div class="MoneyShot">
 				<a herf="http://www.un.org/sustainabledevelopment/zh/sdgadvocates" />
