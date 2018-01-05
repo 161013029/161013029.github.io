@@ -5,12 +5,9 @@ date: 2017-12-30T11:40:45-04:00
 excerpt: "我的可视化作品"
 ---
 
-<a href="https://161013029.github.io/_posts/2017-12-01-GitHub_Desktop.md</a>
-
-
-		
-						
-		{% endfor %}
-	{% endif %}
+<br/>可视化作品作品集
+<div class="tiles">
+{% for post in site.categories.infovis %}
+  {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles -->
+</div><!-- /.tiles 把所有categories 有 infovis 的列出来-->
