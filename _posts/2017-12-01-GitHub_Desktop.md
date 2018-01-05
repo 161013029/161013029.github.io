@@ -4,7 +4,8 @@ title:  "我的期末可视化作品"
 date:   2017-12-03 
 categories: vzuo
 image:
-   teaser: qimoc.jpg
+  teaser: qimoc.jpg
+  feature: qimoc.jpg
 ---
 
 # 我国国产手机专卖店对比简要分析
