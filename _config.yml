@@ -30,16 +30,7 @@ mermaid:
   
 
 # Site owner
-owner:
-  name: 顾菲
-  email: 459521563@qq.com
-  twitter: ff520hhh3
-  google:
-    ad-client:
-    ad-slot:
-  bio: "中山大学南方学院 文学与传媒系 网络与新媒体1班 顾菲"
-  avatar: bio-photo.jpg # 160x160 px image for author byline
-  disqus-shortname:
+
 
 
 include:
