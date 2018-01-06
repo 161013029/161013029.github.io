@@ -14,6 +14,7 @@ image:
 <div class="tiles">
 {% for post in site.categories.qizhong %}
   {% include post-grid.html %}
+{% endfor %}
 </div><!-- /.tiles 把所有categories 有 qizhong 的列出来-->
 
 
