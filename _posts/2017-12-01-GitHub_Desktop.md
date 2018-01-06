@@ -17,8 +17,6 @@ image:
 <iframe src="https://public.tableau.com/profile/.81587557#!/vizhome/_18192/1_2?publish=yes/sheet4?:embed=y&:display_count=yes&publish=yes/Dashboard1?:showVizHome=no&:embed=truehttps://public.tableau.com/shared/DJPSG6CX9?:display_count=yes" width="900px" height="750px" frameborder="0"></iframe>
 
 
-
-
 <br/>可视化期中作品
 <div class="tiles">
 {% for post in site.categories.qizhong %}
@@ -27,5 +25,5 @@ image:
 </div><!-- /.tiles 把所有categories 有 qizhong 的列出来-->
 
 
----
+
 
