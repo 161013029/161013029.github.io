@@ -4,8 +4,8 @@ title:  "我的期末可视化作品"
 date:   2017-12-03 
 categories: vzuo
 image:
-  teaser: qimod.jpg
-  feature: qimod.jpg
+  teaser: qizhongkaob.jpg
+  feature: qizhongkaob.jpg
 ---
 
 # 我国国产手机专卖店对比简要分析
