@@ -29,5 +29,13 @@ image:
 </div>
 
 
+<br/>可视化期中作品
+<div class="tiles">
+{% for post in site.categories.qizhong %}
+  {% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles 把所有categories 有 qizhong 的列出来-->
+
+
 ---
 
