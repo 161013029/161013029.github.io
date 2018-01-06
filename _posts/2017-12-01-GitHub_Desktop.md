@@ -25,9 +25,6 @@ image:
 
 
 
-</div>
-</div>
-
 
 <br/>可视化期中作品
 <div class="tiles">
