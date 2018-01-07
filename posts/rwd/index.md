@@ -30,38 +30,38 @@ image:
 注意：当要分段的时候，使用4个空格或者一个制表符，其他缩进都使用最多3个空格。
    
 ==笔记二：常用Markdown语法总结==</br>
-常用HTML标签元素结合及简介：</br>
-《html》《/html》 创建一个HTML文档</br>
-《head》《/head》 设置文档标题和其它在网页中不显示的信息</br>
-《title》《/title》 设置文档的标题</br>         
-《h1》《/h1》 最大的标题</br>
-《pre》《/pre》 预先格式化文本</br>           
-《u》《/u》 下划线</br>
-《b》《/b》 黑体字</br>     
-《i》《/i》 斜体字</br>    
-《tt》《/tt》 打字机风格的字体</br>
-《cite》《/cite》 引用,通常是斜体</br>         
-《em》《/em》 强调文本(通常是斜体加黑体)</br>
-《strong》《/strong》 加重文本(通常是斜体加黑体)</br>
-《font size="" color=""》《/font》 设置字体大小从1到7，颜色使用名字或RGB的十六进制值</br>
-《BASEFONT》《/BASEFONT》 基准字体标记</br>
-《big》《/big》 字体加大</br>
-《SMALL》《/SMALL》 字体缩小</br>        
-《STRIKE》《/STRIKE》 加删除线</br>
-《COD》《/CODE》 程式码</br>          
-《KBD》《/KBD》 键盘字</br>
-《SAMP》《/SAMP》 范例</br>    
-《VAR》《/VAR》 变量</br>
-《BLOCKQUOTE》《/BLOCKQUOTE》 向右缩排</br>
-《DFN》《/DFN》 述语定义</br>
-《ADDRESS》《/ADDRESS》 地址标记</br>
-《sup》《/SUP》 上标字</br>    
+常用HTML标签元素结合及简介：</br><br>
+《html》《/html》 创建一个HTML文档</br><br>
+《head》《/head》 设置文档标题和其它在网页中不显示的信息</br><br>
+《title》《/title》 设置文档的标题</br><br>
+《h1》《/h1》 最大的标题</br><br>
+《pre》《/pre》 预先格式化文本</br><br>
+《u》《/u》 下划线</br><br>
+《b》《/b》 黑体字</br><br>
+《i》《/i》 斜体字</br><br>
+《tt》《/tt》 打字机风格的字体</br><br>
+《cite》《/cite》 引用,通常是斜体</br><br>
+《em》《/em》 强调文本(通常是斜体加黑体)</br><br>
+《strong》《/strong》 加重文本(通常是斜体加黑体)</br><br>
+《font size="" color=""》《/font》 设置字体大小从1到7，颜色使用名字或RGB的十六进制值</br><br>
+《BASEFONT》《/BASEFONT》 基准字体标记</br><br>
+《big》《/big》 字体加大</br><br>
+《SMALL》《/SMALL》 字体缩小</br><br>
+《STRIKE》《/STRIKE》 加删除线</br><br>
+《COD》《/CODE》 程式码</br><br>
+《KBD》《/KBD》 键盘字</br><br>
+《SAMP》《/SAMP》 范例</br><br>
+《VAR》《/VAR》 变量</br><br>
+《BLOCKQUOTE》《/BLOCKQUOTE》 向右缩排</br><br>
+《DFN》《/DFN》 述语定义</br><br>
+《ADDRESS》《/ADDRESS》 地址标记</br><br>
+《sup》《/SUP》 上标字</br><br>
 《SUB》《/SUB》 下标字</br>
 《xmp》...《/xmp》固定寬度字体(在文件中空白、換行、定位功能有效)</br>
 《plaintext》...《/plaintext》固定寬度字體(不執行標記符號)</br>
-《listing》...《/listing》 固定寬度小字體</br>  
+《listing》...《/listing》 固定寬度小字體</br>
 《font color=00ff00》...《/font>字體顏色</br>
-《font size=1》...《/font》最小字體</br>  
+《font size=1》...《/font》最小字體</br>
 《font style ='font-size:100 px'》...《/font》無限增大</br>
 
 ==笔记三：HTML 全局属性==</br>
