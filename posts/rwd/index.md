@@ -31,56 +31,56 @@ image:
    
 ==笔记二：常用Markdown语法总结==</br>
 常用HTML标签元素结合及简介：</br>
-《html》《/html》 创建一个HTML文档</br>
-《head》《/head》 设置文档标题和其它在网页中不显示的信息</br>
-《title》《/title》 设置文档的标题</br>
-《h1》《/h1》 最大的标题</br>
-《pre》《/pre》 预先格式化文本</br>
-《u》《/u》 下划线</br>
-《b》《/b》 黑体字</br>
-《i》《/i》 斜体字</br>
-《tt》《/tt》 打字机风格的字体</br>
-《cite》《/cite》 引用,通常是斜体</br>
-《em》《/em》 强调文本(通常是斜体加黑体)</br>
-《strong》《/strong》 加重文本(通常是斜体加黑体)</br>
-《font size="" color=""》《/font》 设置字体大小从1到7，颜色使用名字或RGB的十六进制值</br>
-《BASEFONT》《/BASEFONT》 基准字体标记</br>
-《big》《/big》 字体加大</br>
-《SMALL》《/SMALL》 字体缩小</br>
-《STRIKE》《/STRIKE》 加删除线</br>
-《COD》《/CODE》 程式码</br>
-《KBD》《/KBD》 键盘字</br>
-《SAMP》《/SAMP》 范例</br>
-《VAR》《/VAR》 变量</br>
-《BLOCKQUOTE》《/BLOCKQUOTE》 向右缩排</br>
-《DFN》《/DFN》 述语定义</br>
-《ADDRESS》《/ADDRESS》 地址标记</br>
-《sup》《/SUP》 上标字</br>
-《SUB》《/SUB》 下标字</br>
-《xmp》...《/xmp》固定寬度字体(在文件中空白、換行、定位功能有效)</br>
-《plaintext》...《/plaintext》固定寬度字體(不執行標記符號)</br>
-《listing》...《/listing》 固定寬度小字體</br>
-《font color=00ff00》...《/font>字體顏色</br>
-《font size=1》...《/font》最小字體</br>
-《font style ='font-size:100 px'》...《/font》無限增大</br>
+` 《html》《/html》 创建一个HTML文档</br>
+` 《head》《/head》 设置文档标题和其它在网页中不显示的信息</br>
+` 《title》《/title》 设置文档的标题</br>
+` 《h1》《/h1》 最大的标题</br>
+` 《pre》《/pre》 预先格式化文本</br>
+` 《u》《/u》 下划线</br>
+` 《b》《/b》 黑体字</br>
+` 《i》《/i》 斜体字</br>
+` 《tt》《/tt》 打字机风格的字体</br>
+` 《cite》《/cite》 引用,通常是斜体</br>
+` 《em》《/em》 强调文本(通常是斜体加黑体)</br>
+` 《strong》《/strong》 加重文本(通常是斜体加黑体)</br>
+` 《font size="" color=""》《/font》 设置字体大小从1到7，颜色使用名字或RGB的十六进制值</br>
+` 《BASEFONT》《/BASEFONT》 基准字体标记</br>
+` 《big》《/big》 字体加大</br>
+` 《SMALL》《/SMALL》 字体缩小</br>
+` 《STRIKE》《/STRIKE》 加删除线</br>
+` 《COD》《/CODE》 程式码</br>
+` 《KBD》《/KBD》 键盘字</br>
+` 《SAMP》《/SAMP》 范例</br>
+` 《VAR》《/VAR》 变量</br>
+` 《BLOCKQUOTE》《/BLOCKQUOTE》 向右缩排</br>
+` 《DFN》《/DFN》 述语定义</br>
+` 《ADDRESS》《/ADDRESS》 地址标记</br>
+` 《sup》《/SUP》 上标字</br>
+` 《SUB》《/SUB》 下标字</br>
+` 《xmp》...《/xmp》固定寬度字体(在文件中空白、換行、定位功能有效)</br>
+` 《plaintext》...《/plaintext》固定寬度字體(不執行標記符號)</br>
+` 《listing》...《/listing》 固定寬度小字體</br>
+` 《font color=00ff00》...《/font>字體顏色</br>
+` 《font size=1》...《/font》最小字體</br>
+` 《font style ='font-size:100 px'》...《/font》無限增大</br>
 
 ==笔记三：HTML 全局属性==</br>
-accesskey	规定激活元素的快捷键。</br>
-class	规定元素的一个或多个类名（引用样式表中的类）。</br>
-contenteditable	规定元素内容是否可编辑。</br>
-contextmenu	规定元素的上下文菜单。上下文菜单在用户点击元素时显示。</br>
-data-*	用于存储页面或应用程序的私有定制数据。</br>
-dir	规定元素中内容的文本方向。</br>
-draggable	规定元素是否可拖动。</br>
-dropzone	规定在拖动被拖动数据时是否进行复制、移动或链接。</br>
-hidden	规定元素仍未或不再相关。</br>
-id	规定元素的唯一 id。</br>
-lang	规定元素内容的语言。</br>
-spellcheck	规定是否对元素进行拼写和语法检查。</br>
-style	规定元素的行内 CSS 样式。</br>
-tabindex	规定元素的 tab 键次序。</br>
-title	规定有关元素的额外信息。</br>
-translate	规定是否应该翻译元素内容。</br>
+` accesskey	规定激活元素的快捷键。</br>
+` class	规定元素的一个或多个类名（引用样式表中的类）。</br>
+` ontenteditable	规定元素内容是否可编辑。</br>
+` contextmenu	规定元素的上下文菜单。上下文菜单在用户点击元素时显示。</br>
+` data-*	用于存储页面或应用程序的私有定制数据。</br>
+` dir	规定元素中内容的文本方向。</br>
+` draggable	规定元素是否可拖动。</br>
+` dropzone	规定在拖动被拖动数据时是否进行复制、移动或链接。</br>
+` hidden	规定元素仍未或不再相关。</br>
+` id	规定元素的唯一 id。</br>
+` lang	规定元素内容的语言。</br>
+` spellcheck	规定是否对元素进行拼写和语法检查。</br>
+` style	规定元素的行内 CSS 样式。</br>
+` tabindex	规定元素的 tab 键次序。</br>
+` title	规定有关元素的额外信息。</br>
+` translate	规定是否应该翻译元素内容。</br>
 
 <div class="tiles">
 {% for post in site.categories.rwd %}
