@@ -2,7 +2,7 @@
 layout: article
 title:  "W3G_12翻译"
 date:   2017-12-03 
-categories: vpen
+categories: wsg
 image:
   teaser: a12.3.jpg
   feature: a12.3.jpg
