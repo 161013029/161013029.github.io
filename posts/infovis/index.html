@@ -8,6 +8,12 @@ tags: []
 image: 
 ---
 
+<div class="tiles">
+{% for post in site.categories.vpen %}
+  {% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles 把所有categories 有 vpen 的列出来-->
+
 以下是我的信息可视化笔记:
 ==常用Markdown语法总结==
 ` 标题：#；从1到6个#,标题的从大到小（如h1到h6）。<br><br>
